@@ -1,0 +1,41 @@
+<idea-plugin>
+  <id>com.alicannklc.tailwind</id>
+  <name>Tailwindcss</name>
+  <version>1.0</version>
+  <vendor email="alicannklc@gmail.com" url="https:alicannklc.com">Alican Kilic</vendor>
+
+  <description><![CDATA[
+ Live Templates For Tailwind-css-css Show details in Preferences -> Editor -> Live Templates -> Tailwind-css Group.
+
+    ]]></description>
+
+  <change-notes><![CDATA[
+Tailwind Cheat Sheet
+Plugin Documection
+https://goo.gl/iC6Eqj
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+
+
+    <defaultLiveTemplatesProvider implementation="com.alicannklc.tailwind.TailwindTemplateProvider"/>
+
+
+
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
