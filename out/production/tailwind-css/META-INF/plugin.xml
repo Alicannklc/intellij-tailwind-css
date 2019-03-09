@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.alicannklc.tailwind</id>
   <name>Tailwindcss</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="alicannklc@gmail.com" url="https:alicannklc.com">Alican Kilic</vendor>
 
   <description><![CDATA[
@@ -19,11 +19,9 @@ https://goo.gl/iC6Eqj
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="173.0"/>
 
-  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-       on how to target different products -->
-  <!-- uncomment to enable plugin in all products
   <depends>com.intellij.modules.lang</depends>
-  -->
+  <depends>com.intellij.modules.platform</depends>
+
 
   <extensions defaultExtensionNs="com.intellij">
 
