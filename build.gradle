@@ -19,7 +19,7 @@ apply plugin: 'java'
 apply plugin: 'org.jetbrains.intellij'
 
 group 'com.alicannklc.tailwind.snippets'
-version '1.0-SNAPSHOT'
+version '1.0.1'
 
 sourceCompatibility = 1.8
 
@@ -46,6 +46,8 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+ Tailwind Cheat Sheet
+ Plugin Documection
+ https://goo.gl/iC6Eqj
+	 """
 }
