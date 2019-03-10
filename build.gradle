@@ -1,0 +1,51 @@
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+
+
+plugins {
+    id 'idea'
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.4.4'
+}
+
+
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'org.jetbrains.intellij'
+
+group 'com.alicannklc.tailwind.snippets'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+
+intellij {
+    sandboxDirectory = "$project.buildDir/myCustom-sandbox"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+intellij {
+    version '2018.3.5'
+
+
+
+
+    pluginName 'Tailwind'
+}
+patchPluginXml {
+    changeNotes """
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>"""
+}
