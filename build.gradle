@@ -26,6 +26,8 @@ sourceCompatibility = 1.8
 
 intellij {
     sandboxDirectory = "$project.buildDir/myCustom-sandbox"
+	version '2018.3.5'
+    pluginName 'Tailwind'
 }
 
 repositories {
@@ -36,14 +38,7 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
-intellij {
-    version '2018.3.5'
 
-
-
-
-    pluginName 'Tailwind'
-}
 patchPluginXml {
     changeNotes """
  Tailwind Cheat Sheet
