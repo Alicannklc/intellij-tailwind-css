@@ -17,11 +17,10 @@ plugins {
 apply plugin: 'idea'
 apply plugin: 'java'
 apply plugin: 'org.jetbrains.intellij'
-
 group 'com.alicannklc.tailwind.snippets'
-version '1.0.1'
+version '1.0.2'
 
-sourceCompatibility = 1.8
+
 
 
 intellij {
@@ -34,9 +33,6 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
-}
 
 
 patchPluginXml {
@@ -45,4 +41,8 @@ patchPluginXml {
  Plugin Documection
  https://goo.gl/iC6Eqj
 	 """
+	    sinceBuild 171
+        untilBuild ""
+	 
+	 
 }

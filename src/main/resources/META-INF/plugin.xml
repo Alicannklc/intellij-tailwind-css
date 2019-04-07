@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>com.alicannklc.tailwind</id>
+  <name>Tailwindcss</name>
+  <version>1.0.2</version>
+  <vendor email="alicannklc@gmail.com" url="https://alicannklc.com">Alican Kilic</vendor>
+  <description>
+Phpstorm update
+    </description>
+  <change-notes>
+ Tailwind Cheat Sheet
+ Plugin Documection
+ https://goo.gl/iC6Eqj
+	 </change-notes>
+  <idea-version since-build="183"/>
+
+
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <defaultLiveTemplatesProvider implementation="com.alicannklc.tailwind.TailwindTemplateProvider"/>
+  </extensions>
+  <actions/>
+</idea-plugin>
