@@ -1,10 +1,10 @@
 <idea-plugin>
   <id>com.alicannklc.tailwind</id>
   <name>Tailwindcss</name>
-  <version>1.0.2</version>
+  <version>1.1.0</version>
   <vendor email="alicannklc@gmail.com" url="https://alicannklc.com">Alican Kilic</vendor>
   <description>
-Phpstorm update
+Tailwind 1.1.0 Update
     </description>
   <change-notes>
  Tailwind Cheat Sheet
