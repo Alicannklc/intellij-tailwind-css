@@ -1,0 +1,98 @@
+.md-table {
+  min-width: 100%;
+  border-collapse: collapse;
+}
+.md-table tbody tr:hover,
+.md-table tbody tr:focus {
+  background-color: rgba(63, 81, 181, 0.2);
+  color: rgba(0, 0, 0, 0.6);
+}
+.md-table tbody tr:nth-child(1):hover,
+.md-table tbody tr:nth-child(1):focus {
+  cursor: default;
+  background-color: rgba(63, 81, 181, 0);
+}
+.md-table tbody tr:nth-child(even):hover,
+.md-table tbody tr:nth-child(even):focus {
+  background-color: rgba(63, 81, 181, 0.05);
+}
+.md-table th {
+  padding-left: 15px;
+}
+.md-table tr {
+  white-space: nowrap;
+  font-size: 0.8em;
+  padding: 16px 16px 16px 0;
+  height: 72px;
+}
+.md-table tr td {
+  padding-left: 16px;
+  font-size: 1.2em;
+}
+.md-table tr:nth-child(1) {
+  border-bottom: 1px solid #e6e6e6;
+  color: #828282;
+  text-align: left;
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 16px 16px 16px 0;
+}
+.md-table tr:nth-child(1) a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.5em;
+  font-weight: 300;
+}
+.md-table tr:nth-child(1) a:hover {
+  color: black;
+}
+.md-table .can-be-sorted {
+  opacity: 0.4;
+}
+.md-table .can-be-sorted span {
+  margin-right: -5px;
+}
+.md-table .sortationActive {
+  color: black;
+}
+.md-table .pointer {
+  cursor: pointer;
+}
+
+.table-footer {
+  border-top: 1px solid #e6e6e6;
+  background-color: rgba(63, 81, 181, 0.05);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.toolbar-input {
+  margin-top: 15px;
+}
+.toolbar-input input {
+  border-color: white;
+  color: white;
+}
+.toolbar-input > label {
+  color: inherit !important;
+}
+
+.loading-animation {
+  -webkit-transition: all linear 1s;
+  transition: all linear 1s;
+}
+
+.loading-animation.ng-hide {
+  opacity: 0;
+}
+
+.center-outer {
+display: table;
+
+}
+
+.center-inner {
+
+vertical-align: middle;
+text-align: center;
+}
