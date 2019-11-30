@@ -5,7 +5,7 @@ import org.jetbrains.annotations.Nullable;
 
 public class TailwindTemplateProvider implements DefaultLiveTemplatesProvider {
    public String[] getDefaultLiveTemplateFiles() {
-      return new String[]{"liveTemplates/Tailwindcss-1_1_0"};
+      return new String[]{"liveTemplates/Tailwindcss-1_2_0"};
    }
 
    @Nullable

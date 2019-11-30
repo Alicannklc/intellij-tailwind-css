@@ -1,10 +1,11 @@
 <idea-plugin>
   <id>com.alicannklc.tailwind</id>
   <name>Tailwindcss</name>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <vendor email="alicannklc@gmail.com" url="https://alicannklc.com">Alican Kilic</vendor>
   <description>
-Tailwind 1.1.0 Update
+Tailwind 1.2.2 Update
+::placeholder fixing
     </description>
   <change-notes>
  Tailwind Cheat Sheet

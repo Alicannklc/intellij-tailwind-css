@@ -5033,747 +5033,747 @@
         "description": "padding-left: 1px;"
     },
     {
-        "name": "placeholder-transparent::placeholder",
+        "name": "placeholder-transparent",
         "description": "color: transparent;"
     },
     {
-        "name": "placeholder-black::placeholder",
+        "name": "placeholder-black",
         "description": "color: #000;"
     },
     {
-        "name": "placeholder-white::placeholder",
+        "name": "placeholder-white",
         "description": "color: #fff;"
     },
     {
-        "name": "placeholder-gray-100::placeholder",
+        "name": "placeholder-gray-100",
         "description": "color: #f7fafc;"
     },
     {
-        "name": "placeholder-gray-200::placeholder",
+        "name": "placeholder-gray-200",
         "description": "color: #edf2f7;"
     },
     {
-        "name": "placeholder-gray-300::placeholder",
+        "name": "placeholder-gray-300",
         "description": "color: #e2e8f0;"
     },
     {
-        "name": "placeholder-gray-400::placeholder",
+        "name": "placeholder-gray-400",
         "description": "color: #cbd5e0;"
     },
     {
-        "name": "placeholder-gray-500::placeholder",
+        "name": "placeholder-gray-500",
         "description": "color: #a0aec0;"
     },
     {
-        "name": "placeholder-gray-600::placeholder",
+        "name": "placeholder-gray-600",
         "description": "color: #718096;"
     },
     {
-        "name": "placeholder-gray-700::placeholder",
+        "name": "placeholder-gray-700",
         "description": "color: #4a5568;"
     },
     {
-        "name": "placeholder-gray-800::placeholder",
+        "name": "placeholder-gray-800",
         "description": "color: #2d3748;"
     },
     {
-        "name": "placeholder-gray-900::placeholder",
+        "name": "placeholder-gray-900",
         "description": "color: #1a202c;"
     },
     {
-        "name": "placeholder-red-100::placeholder",
+        "name": "placeholder-red-100",
         "description": "color: #fff5f5;"
     },
     {
-        "name": "placeholder-red-200::placeholder",
+        "name": "placeholder-red-200",
         "description": "color: #fed7d7;"
     },
     {
-        "name": "placeholder-red-300::placeholder",
+        "name": "placeholder-red-300",
         "description": "color: #feb2b2;"
     },
     {
-        "name": "placeholder-red-400::placeholder",
+        "name": "placeholder-red-400",
         "description": "color: #fc8181;"
     },
     {
-        "name": "placeholder-red-500::placeholder",
+        "name": "placeholder-red-500",
         "description": "color: #f56565;"
     },
     {
-        "name": "placeholder-red-600::placeholder",
+        "name": "placeholder-red-600",
         "description": "color: #e53e3e;"
     },
     {
-        "name": "placeholder-red-700::placeholder",
+        "name": "placeholder-red-700",
         "description": "color: #c53030;"
     },
     {
-        "name": "placeholder-red-800::placeholder",
+        "name": "placeholder-red-800",
         "description": "color: #9b2c2c;"
     },
     {
-        "name": "placeholder-red-900::placeholder",
+        "name": "placeholder-red-900",
         "description": "color: #742a2a;"
     },
     {
-        "name": "placeholder-orange-100::placeholder",
+        "name": "placeholder-orange-100",
         "description": "color: #fffaf0;"
     },
     {
-        "name": "placeholder-orange-200::placeholder",
+        "name": "placeholder-orange-200",
         "description": "color: #feebc8;"
     },
     {
-        "name": "placeholder-orange-300::placeholder",
+        "name": "placeholder-orange-300",
         "description": "color: #fbd38d;"
     },
     {
-        "name": "placeholder-orange-400::placeholder",
+        "name": "placeholder-orange-400",
         "description": "color: #f6ad55;"
     },
     {
-        "name": "placeholder-orange-500::placeholder",
+        "name": "placeholder-orange-500",
         "description": "color: #ed8936;"
     },
     {
-        "name": "placeholder-orange-600::placeholder",
+        "name": "placeholder-orange-600",
         "description": "color: #dd6b20;"
     },
     {
-        "name": "placeholder-orange-700::placeholder",
+        "name": "placeholder-orange-700",
         "description": "color: #c05621;"
     },
     {
-        "name": "placeholder-orange-800::placeholder",
+        "name": "placeholder-orange-800",
         "description": "color: #9c4221;"
     },
     {
-        "name": "placeholder-orange-900::placeholder",
+        "name": "placeholder-orange-900",
         "description": "color: #7b341e;"
     },
     {
-        "name": "placeholder-yellow-100::placeholder",
+        "name": "placeholder-yellow-100",
         "description": "color: #fffff0;"
     },
     {
-        "name": "placeholder-yellow-200::placeholder",
+        "name": "placeholder-yellow-200",
         "description": "color: #fefcbf;"
     },
     {
-        "name": "placeholder-yellow-300::placeholder",
+        "name": "placeholder-yellow-300",
         "description": "color: #faf089;"
     },
     {
-        "name": "placeholder-yellow-400::placeholder",
+        "name": "placeholder-yellow-400",
         "description": "color: #f6e05e;"
     },
     {
-        "name": "placeholder-yellow-500::placeholder",
+        "name": "placeholder-yellow-500",
         "description": "color: #ecc94b;"
     },
     {
-        "name": "placeholder-yellow-600::placeholder",
+        "name": "placeholder-yellow-600",
         "description": "color: #d69e2e;"
     },
     {
-        "name": "placeholder-yellow-700::placeholder",
+        "name": "placeholder-yellow-700",
         "description": "color: #b7791f;"
     },
     {
-        "name": "placeholder-yellow-800::placeholder",
+        "name": "placeholder-yellow-800",
         "description": "color: #975a16;"
     },
     {
-        "name": "placeholder-yellow-900::placeholder",
+        "name": "placeholder-yellow-900",
         "description": "color: #744210;"
     },
     {
-        "name": "placeholder-green-100::placeholder",
+        "name": "placeholder-green-100",
         "description": "color: #f0fff4;"
     },
     {
-        "name": "placeholder-green-200::placeholder",
+        "name": "placeholder-green-200",
         "description": "color: #c6f6d5;"
     },
     {
-        "name": "placeholder-green-300::placeholder",
+        "name": "placeholder-green-300",
         "description": "color: #9ae6b4;"
     },
     {
-        "name": "placeholder-green-400::placeholder",
+        "name": "placeholder-green-400",
         "description": "color: #68d391;"
     },
     {
-        "name": "placeholder-green-500::placeholder",
+        "name": "placeholder-green-500",
         "description": "color: #48bb78;"
     },
     {
-        "name": "placeholder-green-600::placeholder",
+        "name": "placeholder-green-600",
         "description": "color: #38a169;"
     },
     {
-        "name": "placeholder-green-700::placeholder",
+        "name": "placeholder-green-700",
         "description": "color: #2f855a;"
     },
     {
-        "name": "placeholder-green-800::placeholder",
+        "name": "placeholder-green-800",
         "description": "color: #276749;"
     },
     {
-        "name": "placeholder-green-900::placeholder",
+        "name": "placeholder-green-900",
         "description": "color: #22543d;"
     },
     {
-        "name": "placeholder-teal-100::placeholder",
+        "name": "placeholder-teal-100",
         "description": "color: #e6fffa;"
     },
     {
-        "name": "placeholder-teal-200::placeholder",
+        "name": "placeholder-teal-200",
         "description": "color: #b2f5ea;"
     },
     {
-        "name": "placeholder-teal-300::placeholder",
+        "name": "placeholder-teal-300",
         "description": "color: #81e6d9;"
     },
     {
-        "name": "placeholder-teal-400::placeholder",
+        "name": "placeholder-teal-400",
         "description": "color: #4fd1c5;"
     },
     {
-        "name": "placeholder-teal-500::placeholder",
+        "name": "placeholder-teal-500",
         "description": "color: #38b2ac;"
     },
     {
-        "name": "placeholder-teal-600::placeholder",
+        "name": "placeholder-teal-600",
         "description": "color: #319795;"
     },
     {
-        "name": "placeholder-teal-700::placeholder",
+        "name": "placeholder-teal-700",
         "description": "color: #2c7a7b;"
     },
     {
-        "name": "placeholder-teal-800::placeholder",
+        "name": "placeholder-teal-800",
         "description": "color: #285e61;"
     },
     {
-        "name": "placeholder-teal-900::placeholder",
+        "name": "placeholder-teal-900",
         "description": "color: #234e52;"
     },
     {
-        "name": "placeholder-blue-100::placeholder",
+        "name": "placeholder-blue-100",
         "description": "color: #ebf8ff;"
     },
     {
-        "name": "placeholder-blue-200::placeholder",
+        "name": "placeholder-blue-200",
         "description": "color: #bee3f8;"
     },
     {
-        "name": "placeholder-blue-300::placeholder",
+        "name": "placeholder-blue-300",
         "description": "color: #90cdf4;"
     },
     {
-        "name": "placeholder-blue-400::placeholder",
+        "name": "placeholder-blue-400",
         "description": "color: #63b3ed;"
     },
     {
-        "name": "placeholder-blue-500::placeholder",
+        "name": "placeholder-blue-500",
         "description": "color: #4299e1;"
     },
     {
-        "name": "placeholder-blue-600::placeholder",
+        "name": "placeholder-blue-600",
         "description": "color: #3182ce;"
     },
     {
-        "name": "placeholder-blue-700::placeholder",
+        "name": "placeholder-blue-700",
         "description": "color: #2b6cb0;"
     },
     {
-        "name": "placeholder-blue-800::placeholder",
+        "name": "placeholder-blue-800",
         "description": "color: #2c5282;"
     },
     {
-        "name": "placeholder-blue-900::placeholder",
+        "name": "placeholder-blue-900",
         "description": "color: #2a4365;"
     },
     {
-        "name": "placeholder-indigo-100::placeholder",
+        "name": "placeholder-indigo-100",
         "description": "color: #ebf4ff;"
     },
     {
-        "name": "placeholder-indigo-200::placeholder",
+        "name": "placeholder-indigo-200",
         "description": "color: #c3dafe;"
     },
     {
-        "name": "placeholder-indigo-300::placeholder",
+        "name": "placeholder-indigo-300",
         "description": "color: #a3bffa;"
     },
     {
-        "name": "placeholder-indigo-400::placeholder",
+        "name": "placeholder-indigo-400",
         "description": "color: #7f9cf5;"
     },
     {
-        "name": "placeholder-indigo-500::placeholder",
+        "name": "placeholder-indigo-500",
         "description": "color: #667eea;"
     },
     {
-        "name": "placeholder-indigo-600::placeholder",
+        "name": "placeholder-indigo-600",
         "description": "color: #5a67d8;"
     },
     {
-        "name": "placeholder-indigo-700::placeholder",
+        "name": "placeholder-indigo-700",
         "description": "color: #4c51bf;"
     },
     {
-        "name": "placeholder-indigo-800::placeholder",
+        "name": "placeholder-indigo-800",
         "description": "color: #434190;"
     },
     {
-        "name": "placeholder-indigo-900::placeholder",
+        "name": "placeholder-indigo-900",
         "description": "color: #3c366b;"
     },
     {
-        "name": "placeholder-purple-100::placeholder",
+        "name": "placeholder-purple-100",
         "description": "color: #faf5ff;"
     },
     {
-        "name": "placeholder-purple-200::placeholder",
+        "name": "placeholder-purple-200",
         "description": "color: #e9d8fd;"
     },
     {
-        "name": "placeholder-purple-300::placeholder",
+        "name": "placeholder-purple-300",
         "description": "color: #d6bcfa;"
     },
     {
-        "name": "placeholder-purple-400::placeholder",
+        "name": "placeholder-purple-400",
         "description": "color: #b794f4;"
     },
     {
-        "name": "placeholder-purple-500::placeholder",
+        "name": "placeholder-purple-500",
         "description": "color: #9f7aea;"
     },
     {
-        "name": "placeholder-purple-600::placeholder",
+        "name": "placeholder-purple-600",
         "description": "color: #805ad5;"
     },
     {
-        "name": "placeholder-purple-700::placeholder",
+        "name": "placeholder-purple-700",
         "description": "color: #6b46c1;"
     },
     {
-        "name": "placeholder-purple-800::placeholder",
+        "name": "placeholder-purple-800",
         "description": "color: #553c9a;"
     },
     {
-        "name": "placeholder-purple-900::placeholder",
+        "name": "placeholder-purple-900",
         "description": "color: #44337a;"
     },
     {
-        "name": "placeholder-pink-100::placeholder",
+        "name": "placeholder-pink-100",
         "description": "color: #fff5f7;"
     },
     {
-        "name": "placeholder-pink-200::placeholder",
+        "name": "placeholder-pink-200",
         "description": "color: #fed7e2;"
     },
     {
-        "name": "placeholder-pink-300::placeholder",
+        "name": "placeholder-pink-300",
         "description": "color: #fbb6ce;"
     },
     {
-        "name": "placeholder-pink-400::placeholder",
+        "name": "placeholder-pink-400",
         "description": "color: #f687b3;"
     },
     {
-        "name": "placeholder-pink-500::placeholder",
+        "name": "placeholder-pink-500",
         "description": "color: #ed64a6;"
     },
     {
-        "name": "placeholder-pink-600::placeholder",
+        "name": "placeholder-pink-600",
         "description": "color: #d53f8c;"
     },
     {
-        "name": "placeholder-pink-700::placeholder",
+        "name": "placeholder-pink-700",
         "description": "color: #b83280;"
     },
     {
-        "name": "placeholder-pink-800::placeholder",
+        "name": "placeholder-pink-800",
         "description": "color: #97266d;"
     },
     {
-        "name": "placeholder-pink-900::placeholder",
+        "name": "placeholder-pink-900",
         "description": "color: #702459;"
     },
     {
-        "name": "focus:placeholder-transparent:focus::placeholder",
+        "name": "focus:placeholder-transparent:focus",
         "description": "color: transparent;"
     },
     {
-        "name": "focus:placeholder-black:focus::placeholder",
+        "name": "focus:placeholder-black:focus",
         "description": "color: #000;"
     },
     {
-        "name": "focus:placeholder-white:focus::placeholder",
+        "name": "focus:placeholder-white:focus",
         "description": "color: #fff;"
     },
     {
-        "name": "focus:placeholder-gray-100:focus::placeholder",
+        "name": "focus:placeholder-gray-100:focus",
         "description": "color: #f7fafc;"
     },
     {
-        "name": "focus:placeholder-gray-200:focus::placeholder",
+        "name": "focus:placeholder-gray-200:focus",
         "description": "color: #edf2f7;"
     },
     {
-        "name": "focus:placeholder-gray-300:focus::placeholder",
+        "name": "focus:placeholder-gray-300:focus",
         "description": "color: #e2e8f0;"
     },
     {
-        "name": "focus:placeholder-gray-400:focus::placeholder",
+        "name": "focus:placeholder-gray-400:focus",
         "description": "color: #cbd5e0;"
     },
     {
-        "name": "focus:placeholder-gray-500:focus::placeholder",
+        "name": "focus:placeholder-gray-500:focus",
         "description": "color: #a0aec0;"
     },
     {
-        "name": "focus:placeholder-gray-600:focus::placeholder",
+        "name": "focus:placeholder-gray-600:focus",
         "description": "color: #718096;"
     },
     {
-        "name": "focus:placeholder-gray-700:focus::placeholder",
+        "name": "focus:placeholder-gray-700:focus",
         "description": "color: #4a5568;"
     },
     {
-        "name": "focus:placeholder-gray-800:focus::placeholder",
+        "name": "focus:placeholder-gray-800:focus",
         "description": "color: #2d3748;"
     },
     {
-        "name": "focus:placeholder-gray-900:focus::placeholder",
+        "name": "focus:placeholder-gray-900:focus",
         "description": "color: #1a202c;"
     },
     {
-        "name": "focus:placeholder-red-100:focus::placeholder",
+        "name": "focus:placeholder-red-100:focus",
         "description": "color: #fff5f5;"
     },
     {
-        "name": "focus:placeholder-red-200:focus::placeholder",
+        "name": "focus:placeholder-red-200:focus",
         "description": "color: #fed7d7;"
     },
     {
-        "name": "focus:placeholder-red-300:focus::placeholder",
+        "name": "focus:placeholder-red-300:focus",
         "description": "color: #feb2b2;"
     },
     {
-        "name": "focus:placeholder-red-400:focus::placeholder",
+        "name": "focus:placeholder-red-400:focus",
         "description": "color: #fc8181;"
     },
     {
-        "name": "focus:placeholder-red-500:focus::placeholder",
+        "name": "focus:placeholder-red-500:focus",
         "description": "color: #f56565;"
     },
     {
-        "name": "focus:placeholder-red-600:focus::placeholder",
+        "name": "focus:placeholder-red-600:focus",
         "description": "color: #e53e3e;"
     },
     {
-        "name": "focus:placeholder-red-700:focus::placeholder",
+        "name": "focus:placeholder-red-700:focus",
         "description": "color: #c53030;"
     },
     {
-        "name": "focus:placeholder-red-800:focus::placeholder",
+        "name": "focus:placeholder-red-800:focus",
         "description": "color: #9b2c2c;"
     },
     {
-        "name": "focus:placeholder-red-900:focus::placeholder",
+        "name": "focus:placeholder-red-900:focus",
         "description": "color: #742a2a;"
     },
     {
-        "name": "focus:placeholder-orange-100:focus::placeholder",
+        "name": "focus:placeholder-orange-100:focus",
         "description": "color: #fffaf0;"
     },
     {
-        "name": "focus:placeholder-orange-200:focus::placeholder",
+        "name": "focus:placeholder-orange-200:focus",
         "description": "color: #feebc8;"
     },
     {
-        "name": "focus:placeholder-orange-300:focus::placeholder",
+        "name": "focus:placeholder-orange-300:focus",
         "description": "color: #fbd38d;"
     },
     {
-        "name": "focus:placeholder-orange-400:focus::placeholder",
+        "name": "focus:placeholder-orange-400:focus",
         "description": "color: #f6ad55;"
     },
     {
-        "name": "focus:placeholder-orange-500:focus::placeholder",
+        "name": "focus:placeholder-orange-500:focus",
         "description": "color: #ed8936;"
     },
     {
-        "name": "focus:placeholder-orange-600:focus::placeholder",
+        "name": "focus:placeholder-orange-600:focus",
         "description": "color: #dd6b20;"
     },
     {
-        "name": "focus:placeholder-orange-700:focus::placeholder",
+        "name": "focus:placeholder-orange-700:focus",
         "description": "color: #c05621;"
     },
     {
-        "name": "focus:placeholder-orange-800:focus::placeholder",
+        "name": "focus:placeholder-orange-800:focus",
         "description": "color: #9c4221;"
     },
     {
-        "name": "focus:placeholder-orange-900:focus::placeholder",
+        "name": "focus:placeholder-orange-900:focus",
         "description": "color: #7b341e;"
     },
     {
-        "name": "focus:placeholder-yellow-100:focus::placeholder",
+        "name": "focus:placeholder-yellow-100:focus",
         "description": "color: #fffff0;"
     },
     {
-        "name": "focus:placeholder-yellow-200:focus::placeholder",
+        "name": "focus:placeholder-yellow-200:focus",
         "description": "color: #fefcbf;"
     },
     {
-        "name": "focus:placeholder-yellow-300:focus::placeholder",
+        "name": "focus:placeholder-yellow-300:focus",
         "description": "color: #faf089;"
     },
     {
-        "name": "focus:placeholder-yellow-400:focus::placeholder",
+        "name": "focus:placeholder-yellow-400:focus",
         "description": "color: #f6e05e;"
     },
     {
-        "name": "focus:placeholder-yellow-500:focus::placeholder",
+        "name": "focus:placeholder-yellow-500:focus",
         "description": "color: #ecc94b;"
     },
     {
-        "name": "focus:placeholder-yellow-600:focus::placeholder",
+        "name": "focus:placeholder-yellow-600:focus",
         "description": "color: #d69e2e;"
     },
     {
-        "name": "focus:placeholder-yellow-700:focus::placeholder",
+        "name": "focus:placeholder-yellow-700:focus",
         "description": "color: #b7791f;"
     },
     {
-        "name": "focus:placeholder-yellow-800:focus::placeholder",
+        "name": "focus:placeholder-yellow-800:focus",
         "description": "color: #975a16;"
     },
     {
-        "name": "focus:placeholder-yellow-900:focus::placeholder",
+        "name": "focus:placeholder-yellow-900:focus",
         "description": "color: #744210;"
     },
     {
-        "name": "focus:placeholder-green-100:focus::placeholder",
+        "name": "focus:placeholder-green-100:focus",
         "description": "color: #f0fff4;"
     },
     {
-        "name": "focus:placeholder-green-200:focus::placeholder",
+        "name": "focus:placeholder-green-200:focus",
         "description": "color: #c6f6d5;"
     },
     {
-        "name": "focus:placeholder-green-300:focus::placeholder",
+        "name": "focus:placeholder-green-300:focus",
         "description": "color: #9ae6b4;"
     },
     {
-        "name": "focus:placeholder-green-400:focus::placeholder",
+        "name": "focus:placeholder-green-400:focus",
         "description": "color: #68d391;"
     },
     {
-        "name": "focus:placeholder-green-500:focus::placeholder",
+        "name": "focus:placeholder-green-500:focus",
         "description": "color: #48bb78;"
     },
     {
-        "name": "focus:placeholder-green-600:focus::placeholder",
+        "name": "focus:placeholder-green-600:focus",
         "description": "color: #38a169;"
     },
     {
-        "name": "focus:placeholder-green-700:focus::placeholder",
+        "name": "focus:placeholder-green-700:focus",
         "description": "color: #2f855a;"
     },
     {
-        "name": "focus:placeholder-green-800:focus::placeholder",
+        "name": "focus:placeholder-green-800:focus",
         "description": "color: #276749;"
     },
     {
-        "name": "focus:placeholder-green-900:focus::placeholder",
+        "name": "focus:placeholder-green-900:focus",
         "description": "color: #22543d;"
     },
     {
-        "name": "focus:placeholder-teal-100:focus::placeholder",
+        "name": "focus:placeholder-teal-100:focus",
         "description": "color: #e6fffa;"
     },
     {
-        "name": "focus:placeholder-teal-200:focus::placeholder",
+        "name": "focus:placeholder-teal-200:focus",
         "description": "color: #b2f5ea;"
     },
     {
-        "name": "focus:placeholder-teal-300:focus::placeholder",
+        "name": "focus:placeholder-teal-300:focus",
         "description": "color: #81e6d9;"
     },
     {
-        "name": "focus:placeholder-teal-400:focus::placeholder",
+        "name": "focus:placeholder-teal-400:focus",
         "description": "color: #4fd1c5;"
     },
     {
-        "name": "focus:placeholder-teal-500:focus::placeholder",
+        "name": "focus:placeholder-teal-500:focus",
         "description": "color: #38b2ac;"
     },
     {
-        "name": "focus:placeholder-teal-600:focus::placeholder",
+        "name": "focus:placeholder-teal-600:focus",
         "description": "color: #319795;"
     },
     {
-        "name": "focus:placeholder-teal-700:focus::placeholder",
+        "name": "focus:placeholder-teal-700:focus",
         "description": "color: #2c7a7b;"
     },
     {
-        "name": "focus:placeholder-teal-800:focus::placeholder",
+        "name": "focus:placeholder-teal-800:focus",
         "description": "color: #285e61;"
     },
     {
-        "name": "focus:placeholder-teal-900:focus::placeholder",
+        "name": "focus:placeholder-teal-900:focus",
         "description": "color: #234e52;"
     },
     {
-        "name": "focus:placeholder-blue-100:focus::placeholder",
+        "name": "focus:placeholder-blue-100:focus",
         "description": "color: #ebf8ff;"
     },
     {
-        "name": "focus:placeholder-blue-200:focus::placeholder",
+        "name": "focus:placeholder-blue-200:focus",
         "description": "color: #bee3f8;"
     },
     {
-        "name": "focus:placeholder-blue-300:focus::placeholder",
+        "name": "focus:placeholder-blue-300:focus",
         "description": "color: #90cdf4;"
     },
     {
-        "name": "focus:placeholder-blue-400:focus::placeholder",
+        "name": "focus:placeholder-blue-400:focus",
         "description": "color: #63b3ed;"
     },
     {
-        "name": "focus:placeholder-blue-500:focus::placeholder",
+        "name": "focus:placeholder-blue-500:focus",
         "description": "color: #4299e1;"
     },
     {
-        "name": "focus:placeholder-blue-600:focus::placeholder",
+        "name": "focus:placeholder-blue-600:focus",
         "description": "color: #3182ce;"
     },
     {
-        "name": "focus:placeholder-blue-700:focus::placeholder",
+        "name": "focus:placeholder-blue-700:focus",
         "description": "color: #2b6cb0;"
     },
     {
-        "name": "focus:placeholder-blue-800:focus::placeholder",
+        "name": "focus:placeholder-blue-800:focus",
         "description": "color: #2c5282;"
     },
     {
-        "name": "focus:placeholder-blue-900:focus::placeholder",
+        "name": "focus:placeholder-blue-900:focus",
         "description": "color: #2a4365;"
     },
     {
-        "name": "focus:placeholder-indigo-100:focus::placeholder",
+        "name": "focus:placeholder-indigo-100:focus",
         "description": "color: #ebf4ff;"
     },
     {
-        "name": "focus:placeholder-indigo-200:focus::placeholder",
+        "name": "focus:placeholder-indigo-200:focus",
         "description": "color: #c3dafe;"
     },
     {
-        "name": "focus:placeholder-indigo-300:focus::placeholder",
+        "name": "focus:placeholder-indigo-300:focus",
         "description": "color: #a3bffa;"
     },
     {
-        "name": "focus:placeholder-indigo-400:focus::placeholder",
+        "name": "focus:placeholder-indigo-400:focus",
         "description": "color: #7f9cf5;"
     },
     {
-        "name": "focus:placeholder-indigo-500:focus::placeholder",
+        "name": "focus:placeholder-indigo-500:focus",
         "description": "color: #667eea;"
     },
     {
-        "name": "focus:placeholder-indigo-600:focus::placeholder",
+        "name": "focus:placeholder-indigo-600:focus",
         "description": "color: #5a67d8;"
     },
     {
-        "name": "focus:placeholder-indigo-700:focus::placeholder",
+        "name": "focus:placeholder-indigo-700:focus",
         "description": "color: #4c51bf;"
     },
     {
-        "name": "focus:placeholder-indigo-800:focus::placeholder",
+        "name": "focus:placeholder-indigo-800:focus",
         "description": "color: #434190;"
     },
     {
-        "name": "focus:placeholder-indigo-900:focus::placeholder",
+        "name": "focus:placeholder-indigo-900:focus",
         "description": "color: #3c366b;"
     },
     {
-        "name": "focus:placeholder-purple-100:focus::placeholder",
+        "name": "focus:placeholder-purple-100:focus",
         "description": "color: #faf5ff;"
     },
     {
-        "name": "focus:placeholder-purple-200:focus::placeholder",
+        "name": "focus:placeholder-purple-200:focus",
         "description": "color: #e9d8fd;"
     },
     {
-        "name": "focus:placeholder-purple-300:focus::placeholder",
+        "name": "focus:placeholder-purple-300:focus",
         "description": "color: #d6bcfa;"
     },
     {
-        "name": "focus:placeholder-purple-400:focus::placeholder",
+        "name": "focus:placeholder-purple-400:focus",
         "description": "color: #b794f4;"
     },
     {
-        "name": "focus:placeholder-purple-500:focus::placeholder",
+        "name": "focus:placeholder-purple-500:focus",
         "description": "color: #9f7aea;"
     },
     {
-        "name": "focus:placeholder-purple-600:focus::placeholder",
+        "name": "focus:placeholder-purple-600:focus",
         "description": "color: #805ad5;"
     },
     {
-        "name": "focus:placeholder-purple-700:focus::placeholder",
+        "name": "focus:placeholder-purple-700:focus",
         "description": "color: #6b46c1;"
     },
     {
-        "name": "focus:placeholder-purple-800:focus::placeholder",
+        "name": "focus:placeholder-purple-800:focus",
         "description": "color: #553c9a;"
     },
     {
-        "name": "focus:placeholder-purple-900:focus::placeholder",
+        "name": "focus:placeholder-purple-900:focus",
         "description": "color: #44337a;"
     },
     {
-        "name": "focus:placeholder-pink-100:focus::placeholder",
+        "name": "focus:placeholder-pink-100:focus",
         "description": "color: #fff5f7;"
     },
     {
-        "name": "focus:placeholder-pink-200:focus::placeholder",
+        "name": "focus:placeholder-pink-200:focus",
         "description": "color: #fed7e2;"
     },
     {
-        "name": "focus:placeholder-pink-300:focus::placeholder",
+        "name": "focus:placeholder-pink-300:focus",
         "description": "color: #fbb6ce;"
     },
     {
-        "name": "focus:placeholder-pink-400:focus::placeholder",
+        "name": "focus:placeholder-pink-400:focus",
         "description": "color: #f687b3;"
     },
     {
-        "name": "focus:placeholder-pink-500:focus::placeholder",
+        "name": "focus:placeholder-pink-500:focus",
         "description": "color: #ed64a6;"
     },
     {
-        "name": "focus:placeholder-pink-600:focus::placeholder",
+        "name": "focus:placeholder-pink-600:focus",
         "description": "color: #d53f8c;"
     },
     {
-        "name": "focus:placeholder-pink-700:focus::placeholder",
+        "name": "focus:placeholder-pink-700:focus",
         "description": "color: #b83280;"
     },
     {
-        "name": "focus:placeholder-pink-800:focus::placeholder",
+        "name": "focus:placeholder-pink-800:focus",
         "description": "color: #97266d;"
     },
     {
-        "name": "focus:placeholder-pink-900:focus::placeholder",
+        "name": "focus:placeholder-pink-900:focus",
         "description": "color: #702459;"
     },
     {
