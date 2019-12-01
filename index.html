@@ -1,20 +1,37 @@
-<html lang="en" >
-
+<!DOCTYPE html>
 <html lang="en" ng-app="angularMaterialTableApp">
 <head>
   <meta charset="UTF-8">
   <title>Tailwind Cheat Sheet</title>
-
+<meta name=description content="Cheat sheet that provides a quick, interactive reference for all utility classes and CSS properties provided by Tailwind CSS, a utility-first CSS framework.">
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Luckiest+Guy'>
   <link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.css'>
 <link rel="stylesheet" href="css/style.css">
-
-</head>
-
-<body>
-
-  <html lang="en" ng-app="angularMaterialTableApp">
-<head>
   <meta name="viewport" content="initial-scale=1" />
   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0-rc1/angular-material.min.css">
 </head>
+
+<body layout="column" ng-controller="MainCtrl">
+
+    <ng-md-table table-name="Tailwind Cheat Sheet" data="data" columns="columns" show-search="true" page-size="10" is-loaded="loaded"></ng-md-table>
+
+  <!-- Angular Material Dependencies -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-animate.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-aria.min.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0-rc1/angular-material.min.js"></script>
+
+
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.js'></script>
+
+
+
+    <script src="js/index.js"></script>
+
+
+
+</body>
+
+</html>
