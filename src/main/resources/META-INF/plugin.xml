@@ -4,12 +4,21 @@
   <version>1.2.0</version>
   <vendor email="alicannklc@gmail.com" url="https://alicannklc.com">Alican Kilic</vendor>
   <description>
-Tailwind 1.3.0 Update
-::placeholder
-Css
-SCS fixing
+Tailwind 1.4.0 Update
+  -- Css
+  -- RUBY
+  -- SASS
+  -- LESS
+  -- SCSS
+  -- RHTML Fixing
     </description>
   <change-notes>
+  -- Css
+  -- RUBY
+  -- SASS
+  -- LESS
+  -- SCSS
+  -- RHTML
  Tailwind Cheat Sheet
  Plugin Documection
  https://goo.gl/iC6Eqj

@@ -17,7 +17,7 @@ apply plugin: 'idea'
 apply plugin: 'java'
 apply plugin: 'org.jetbrains.intellij'
 group 'com.alicannklc.tailwind.snippets'
-version '1.3.0'
+version '1.4.0'
 
 
 
@@ -36,6 +36,12 @@ repositories {
 
 patchPluginXml {
     changeNotes """
+  -- Css
+  -- RUBY
+  -- SASS
+  -- LESS
+  -- SCSS
+  -- RHTML
  Tailwind Cheat Sheet
  Plugin Documection
  https://goo.gl/iC6Eqj
