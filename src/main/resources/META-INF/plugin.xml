@@ -2,15 +2,21 @@
   <id>com.alicannklc.tailwind</id>
   <name>Tailwindcss</name>
   <version>1.2.0</version>
-  <vendor email="alicannklc@gmail.com" url="https://alicannklc.com">Alican Kilic</vendor>
+  <vendor email="alicannklc@gmail.com" url="https://alicannklc.github.io/intellij-tailwind-css/">Alican Kilic</vendor>
   <description>
-Tailwind 1.4.0 Update
+Tailwind 1.4.2 Update
   -- Css
   -- RUBY
   -- SASS
   -- LESS
   -- SCSS
-  -- RHTML Fixing
+  -- RHTML
+  -- HAML
+  -- Twig
+  -- JADE
+  -- Handlebars
+  -- Vue
+   Fixing
     </description>
   <change-notes>
   -- Css
@@ -19,6 +25,11 @@ Tailwind 1.4.0 Update
   -- LESS
   -- SCSS
   -- RHTML
+  -- HAML
+  -- Twig
+  -- JADE
+  -- Handlebars
+  -- Vue
  Tailwind Cheat Sheet
  Plugin Documection
  https://goo.gl/iC6Eqj
