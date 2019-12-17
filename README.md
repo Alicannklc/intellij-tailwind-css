@@ -5,7 +5,7 @@ Donations are **greatly appreciated!**
 
 **[BUY ME A COFFEE](https://www.patreon.com/join/alicannklc)**
 
- - DART -
+ - DART 
   - ECMAScript6 
   - HTML 
   - Handlebars 
@@ -16,13 +16,14 @@ Donations are **greatly appreciated!**
   - SCSS 
   - HAML 
   - JAVA_SCRIPT
-  - RHTML --
-  - RUBY --
- - SASS --
- - LESS -- 
+  - RHTML 
+  - RUBY 
+ - SASS 
+ - LESS 
  - Twig
- - Handlebars --
+ - Handlebars 
  - JADE 
+
 [Live Template](https://www.jetbrains.com/help/idea/using-live-templates.html)
 
 # Tailwind IntelliJ Plugin
