@@ -1,8 +1,29 @@
+
 Donations
 ----------
 Donations are **greatly appreciated!**
 
 **[BUY ME A COFFEE](https://www.patreon.com/join/alicannklc)**
+
+ -- DART --
+  -- ECMAScript6 --
+  -- HTML --
+  -- Handlebars --
+  -- PHP
+  -- TypeScript --
+  -- Vue --
+  -- CSS --
+  -- SCSS --
+  -- HAML --
+  -- JAVA_SCRIPT --
+  -- RHTML --
+   -- RUBY --
+ -- SASS --
+ -- LESS -- 
+ -- Twig --
+ -- Handlebars --
+ -- JADE --
+[Live Template](https://www.jetbrains.com/help/idea/using-live-templates.html)
 
 # Tailwind IntelliJ Plugin
 Plugin url: [https://plugins.jetbrains.com/plugin/12074-tailwindcss](https://plugins.jetbrains.com/plugin/12074-tailwindcss)
