@@ -23,6 +23,8 @@ Donations are **greatly appreciated!**
  - Twig
  - Handlebars 
  - JADE 
+ - ELM
+ - ELIXIR
 
 [Live Template](https://www.jetbrains.com/help/idea/using-live-templates.html)
 
