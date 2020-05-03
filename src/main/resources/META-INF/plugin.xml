@@ -1,10 +1,10 @@
 <idea-plugin>
   <id>com.alicannklc.tailwind</id>
   <name>Tailwindcss</name>
-  <version>1.2.0</version>
+  <version>1.4.2</version>
   <vendor email="alicannklc@gmail.com" url="https://alicannklc.github.io/intellij-tailwind-css/">Alican Kilic</vendor>
   <description>
-Tailwind 1.4.2 Update
+Tailwind 1.4.6 Update
   -- Css
   -- RUBY
   -- SASS
@@ -16,6 +16,8 @@ Tailwind 1.4.2 Update
   -- JADE
   -- Handlebars
   -- Vue
+  --Elm
+  --Elixir
    Fixing
     </description>
   <change-notes>
@@ -30,6 +32,8 @@ Tailwind 1.4.2 Update
   -- JADE
   -- Handlebars
   -- Vue
+  --Elm
+  --Elixir
  Tailwind Cheat Sheet
  Plugin Documection
  https://goo.gl/iC6Eqj

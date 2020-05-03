@@ -17,7 +17,7 @@ apply plugin: 'idea'
 apply plugin: 'java'
 apply plugin: 'org.jetbrains.intellij'
 group 'com.alicannklc.tailwind.snippets'
-version '1.4.2'
+version '1.4.6'
 
 
 
@@ -47,6 +47,8 @@ patchPluginXml {
   -- JADE
   -- Handlebars
   -- Vue
+  --Elm
+  --Elixir
  Tailwind Cheat Sheet
  Plugin Documection
  https://goo.gl/iC6Eqj
