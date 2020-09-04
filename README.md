@@ -1,13 +1,13 @@
+
 #[The plugin is written only for Codecompeletion]
 
-
-Donations
-----------
-Donations are **greatly appreciated!**
+**
 
 
+## Development suspended due to spam comments
 
-**[BUY ME A COFFEE](https://www.patreon.com/join/alicannklc)**
+**
+
 
  - DART 
   - ECMAScript6 
